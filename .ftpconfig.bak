@@ -1,0 +1,23 @@
+{
+    "protocol": "sftp",
+    "host": "montikreativ.com.au",
+    "port": 21,
+    "user": "mitch@montikreativ.com.au",
+    "pass": "SN00PDog!",
+    "promptForPass": false,
+    "remote": "/",
+    "local": "",
+    "agent": "env",
+    "privatekey": "~/.ssh/mk_rsa",
+    "passphrase": "SN00PDog!",
+    "hosthash": "sha1",
+    "ignorehost": true,
+    "connTimeout": 10000,
+    "keepalive": 10000,
+    "keyboardInteractive": false,
+    "keyboardInteractiveForPass": false,
+    "remoteCommand": "",
+    "remoteShell": "",
+    "watch": [],
+    "watchTimeout": 500
+}
